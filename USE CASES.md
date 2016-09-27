@@ -1,28 +1,37 @@
-This is the Use Cases markdown file.
-
 Use Case 1
 
-Title: Determine License and Vulnerability Information
+Title: Determineing License and Vulnerability Information
 
-Primary Actor: Corporate Manager
+Primary Actor:
 
-Goal in Context: The corporate manager is able to determine license and vulnerability
-information from provided project information
+           Manager
+
+Goal in Context: 
+
+           The manager is able to determine license and vulnerability
+           information from provided project information.
 
 Stakeholders:
-Corporate Manager: To receive clear and relevant project information
-Corporate Developer: To provide the relevant file/package level information
-Project Owner: To clearly understand corporate manager decisions to green/red light a project
+
+           Manager: To receive clear and relevant project information.
+           Developer: To provide the relevant file/package information.
 
 Preconditions:
-Relevant file/package information is in the SPDX database
-Proper project information has been provided
 
-Main Success Scenario: Corporate manager receives accurate license and vulnerability
-information for the requested project packages
+           Relevant file/package information is in the Software Package Database.
+           Proper project information has been provided.
 
-Failed End Conditions: Corporate manager receives inaccurate or invalid license and
-vulnerability information for the requested project packages
+Main Success Scenario: 
 
-Trigger: Corporate manager uploads or identifies project information to which license and
-vulnerability information is provided
+           Manager receives accurate license and vulnerability
+           information for the requested project packages.
+
+Failed End Conditions: 
+           
+           Manager receives inaccurate or invalid license and
+           vulnerability information for the requested project packages.
+
+Trigger: 
+      
+           Manager uploads or identifies project information to which license and
+           vulnerability information is provided.
