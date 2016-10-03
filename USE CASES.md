@@ -1,6 +1,6 @@
 Use Case 1
 
-Title: Determineing License and Vulnerability Information
+Title: Determining License and Vulnerability Information
 
 Primary Actor:
 
@@ -35,3 +35,8 @@ Trigger:
       
            Manager uploads or identifies project information to which license and
            vulnerability information is provided.
+           
+           
+Use Case 2
+
+Title: 
