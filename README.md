@@ -2,7 +2,7 @@
 
 Executive Summary
 
-       A description of the project which includes, motivation, organizational structure/authority/control, and social responsibility.
+       A description of the project which includes motivation, organizational structure/authority/control, and social responsibility.
 
 Data Flow Diagram
 
