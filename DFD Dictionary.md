@@ -12,6 +12,8 @@ Software Package Name:
 
 Software Package License Results:
 
+Software Package Vulnerablities:
+
 Software Package License and Vulnerabilitiy Results: 
 
 NIST Vulnerability Database:
