@@ -1,7 +1,4 @@
-DFD Title
+Documentation of Open Source Software
 
-This is the DFD file. We're going to use to display our Data Flow Diagram
 
-This is a second line
-
-![alt text](https://cloud.githubusercontent.com/assets/22307422/19091653/17b3f2c2-8a49-11e6-81c5-bc4d91556214.jpg)
+![alt text](https://cloud.githubusercontent.com/assets/22307422/19092276/92ba276e-8a4b-11e6-8e75-e693fa37c282.jpg)
