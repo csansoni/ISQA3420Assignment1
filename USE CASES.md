@@ -14,7 +14,7 @@ Goal in Context:
 Stakeholders:
 
            Manager: To receive clear and relevant project information.
-           Developer: To provide the relevant file/package information.
+           Developer: To provide the relevant project information.
 
 Preconditions:
 
@@ -39,7 +39,7 @@ Trigger:
            
 Use Case 2
 
-Title: 
+Title: Updating a 
 
 Primary Actor:
 
