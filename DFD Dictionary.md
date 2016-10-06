@@ -1,6 +1,10 @@
 Developer: 
 
-            The developer is the employee that will submit and write software packages and submit project requests. They will use open               source software to create these software packages and project packages. Regarding the software packages, they will compare               the software packages with known vulnerabilities and the software will be scanned for licenses to make sure they are abiding             with the the legal use of the open source software. The developer will compare known vulnerablities in the software to                   policies set by the manager and organization to be acceptable for the organizations needs.
+            The developer is the employee that will submit and write software packages and submit project requests. They will use open
+            source software to create these software packages and project packages. Regarding the software packages, they will compare
+            the software packages with known vulnerabilities and the software will be scanned for licenses to make sure they are abiding
+            with the the legal use of the open source software. The developer will compare known vulnerablities in the software to
+            policies set by the manager and organization to be acceptable for the organizations needs.
 
 Manager:
 
