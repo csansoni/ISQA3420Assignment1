@@ -53,11 +53,12 @@ Goal in Context:
 Stakeholders:
 
            Manager: To update an existing policy to meet license requirements and vulnerability thresholds
-           Developer: To change current or new software packages to be in accordance with the new policy
+           Developer: To change current or add new software packages to be in accordance with the new policy
 
 Preconditions:
 
-           New policy has been created to follow the organization's goals regarding acceptable licenses and vulnerability thresholds
+           New policy has been created to follow the organization's goals by abiding by licenses requirements and acceptable
+           vulnerability thresholds
            Relevant policy information is stored in the policy database
 
 Main Success Scenario:
@@ -108,4 +109,4 @@ Failed End Conditions:
 
 Trigger:
 
-           The manager or developer submit software project request to accomplish a new function or goal of the organization.
+           The manager or developer submit a software project request to accomplish a new function or goal of the organization.
