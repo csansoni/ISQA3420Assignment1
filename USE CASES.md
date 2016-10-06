@@ -58,13 +58,13 @@ Stakeholders:
 
 Preconditions:
 
-           New policy has been created to follow the organization's goals by abiding by licenses requirements and acceptable
+           New policy has been created to follow the corporation's goals by abiding by licenses requirements and acceptable
            vulnerability thresholds
            Relevant policy information is stored in the policy database
 
 Main Success Scenario:
 
-           Manager is able to change an existing policy with a new updated policy to meet the organization's needs
+           Manager is able to change an existing policy with a new updated policy to meet the corporation's needs
 
 Failed End Conditions:
 
@@ -87,28 +87,28 @@ Primary Actor:
 
 Goal in Context:
 
-           The manager or developer are able to submit a project request in order to add new software for the use of the organization.
+           The manager or developer are able to submit a project request in order to add new software for the use of the corporation
 
 Stakeholders:
 
-           Manager: To submit a software project to meet a new function or goal of the organization
-           Developer: To submit a software project to meet a new function or goal of the organization
+           Manager: To submit a software project to meet a new function or goal of the corporation
+           Developer: To submit a software project to meet a new function or goal of the corporation
 
 Preconditions:
 
-           The new function or goal of the organization is clearly stated with definitive properties
+           The new function or goal of the corporation is stated with definitive properties
            There is open source software available to meet the needs of the new software project
 
 Main Success Scenario:
 
            The project request meets the acceptable vulnerability thresholds and does not violate any licenses.
-           The software project accomplishes the new function or goal of the organization.
+           The software project accomplishes the new function or goal of the corporation.
 
 Failed End Conditions:
 
            The project request violates vulnerability thresholds or violates licenses associated with software packages in the project.
-           The software project does not meet the new function or goal of the organization.
+           The software project does not meet the new function or goal of the corporation.
 
 Trigger:
 
-           The manager or developer submit a software project request to accomplish a new function or goal of the organization.
+           The manager or developer submit a software project request to accomplish a new function or goal of the corporation.
