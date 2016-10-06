@@ -9,8 +9,8 @@ Developer:
 Manager:
 
             The manager can request software projects to be completed. The manager wil compare sofware project license and
-            vulnerability information with the organization's poliicies for acceptable standards regarding known vulnerabilities.
-            The manager is able to request policy information and also modify and add new policies to meet the organization's standards.
+            vulnerability information with the corporation's poliicies for acceptable standards regarding known vulnerabilities.
+            The manager is able to request policy information and also modify and add new policies to meet the corporation's standards.
             
 Scanner:
 
