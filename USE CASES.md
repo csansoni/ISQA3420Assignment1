@@ -38,6 +38,7 @@ Trigger:
            
            
            
+           
 Use Case 2
 
 Title: Updating a Policy
@@ -73,6 +74,7 @@ Trigger:
            
            Manager updates policy information where the outdated policy information is stored
            
+
 
 
 Use Case 3
