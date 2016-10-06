@@ -4,17 +4,35 @@ Developer:
 
 Manager:
 
-            The manager is the employee that will request software projects
+            The manager can request software projects to be completed. The manager wil compare sofware project license and
+            vulnerability information with the organization's poliicies for acceptable standards regarding known vulnerabilities.
+            The manager is able to request policy information and also modify and add new policies to meet the organization's standards.
             
 Scanner:
 
+            The scanner is the process of testing the open source software for licenses associated with the use of the software. The 
+            developer must follow the correct procedures for licensing the software in order to abide to the legal use of the software.
+
 Manage Software Package for License Scanning and Vulnerabilities:
+
+            The process that will take software packages from the developer and manage the packages to test for known vulnerabilities
+            and send the software package to the scanner process to check for licenses. The information the process gets returned will
+            be sent back to the developer and also to a datastore. 
 
 Software Package:
 
+            The software package is a collection of files the developer will use to complete the objective of the software project
+            request. The software package will be scanned for licenses and known vulnerabilities, that information will then be sent
+            back to the developer and to a data store to be set against software projects. 
+
 Software Package Name:
 
+            The name of the software package will be sent to the vulnerability database to be tested for known vulnerabilties.
+
 Software Package License Results:
+
+            The results of the software package being sent to the scanner, testing for licenses associated with the software package
+            being used. These license results will be stored with vulnerability information in a datastore and will also be sent back to             the developer. 
 
 Software Package Vulnerablities:
 
